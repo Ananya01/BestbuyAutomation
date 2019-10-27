@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90422" started-at="2019-10-27T14:42:52Z" finished-at="2019-10-27T14:44:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90422" started-at="2019-10-27T14:42:52Z" finished-at="2019-10-27T14:44:22Z">
+      <class name="test.BestbuyAutomation">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:test.BestbuyAutomation@18be83e4]" name="openBrowser" is-config="true" duration-ms="46031" started-at="2019-10-27T14:42:52Z" finished-at="2019-10-27T14:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="addProductToCart()[pri:0, instance:test.BestbuyAutomation@18be83e4]" name="addProductToCart" is-config="true" duration-ms="20732" started-at="2019-10-27T14:43:38Z" finished-at="2019-10-27T14:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method status="PASS" signature="orderProduct()[pri:0, instance:test.BestbuyAutomation@18be83e4]" name="orderProduct" duration-ms="23184" started-at="2019-10-27T14:43:59Z" finished-at="2019-10-27T14:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderProduct -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.BestbuyAutomation@18be83e4]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-10-27T14:44:22Z" finished-at="2019-10-27T14:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.BestbuyAutomation@18be83e4]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-10-27T14:44:22Z" finished-at="2019-10-27T14:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.BestbuyAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
